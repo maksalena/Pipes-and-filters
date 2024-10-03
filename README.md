@@ -56,7 +56,7 @@ The application will start capturing video from your webcam (or video file if co
 
 ## Video file configuration
 
-Chenge '0' to the path for your video file in line 48:
+Chenge '0' to the path for your video file in line 73:
 ```python
 video_pipe = VideoCapturePipe(0) # e.g "myVideo.mp4"
 ```
